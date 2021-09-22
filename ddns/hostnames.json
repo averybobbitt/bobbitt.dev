@@ -1,0 +1,57 @@
+{
+  "host1": {
+    "hostname": "bobbitt.dev",
+    "username": "TLPjAv2YgczRlgF6",
+    "password": "JvKEst1o3f6a5bkA"
+  },
+  "host2": {
+    "hostname": "www.bobbitt.dev",
+    "username": "eGr6EyobW7oHgktP",
+    "password": "9gbWCuXothyb5Itu"
+  },
+  "host3": {
+    "hostname": "cloud.bobbitt.dev",
+    "username": "tgeWpTSm8LSY8Q3t",
+    "password": "sZPhcl2SQtNiIkc0"
+  },
+  "host4": {
+    "hostname": "bit.bobbitt.dev",
+    "username": "KpoNU5WUbNnUW939",
+    "password": "RjQFeSsNIn5Mrw7D"
+  },
+  "host5": {
+    "hostname": "git.bobbitt.dev",
+    "username": "pc3WtnfzZU3KxHSo",
+    "password": "SsTEaHNvxdujRdHx"
+  },
+  "host6": {
+    "hostname": "notes.bobbitt.dev",
+    "username": "xxXJAJNYHupc8TqG",
+    "password": "XLH52EzFm2DONkWs"
+  },
+  "host7": {
+    "hostname": "jelly.bobbitt.dev",
+    "username": "d2OQEFJ7eQRqbFDn",
+    "password": "5hp92KnDhFSZnwME"
+  },
+  "host8": {
+    "hostname": "repo.bobbitt.dev",
+    "username": "OnGQgEnjC7vjgNAF",
+    "password": "2ocKlBEUGFS7GDxw"
+  },
+  "host9": {
+    "hostname": "mail.bobbitt.dev",
+    "username": "8kjSIxBnORtgqY5Z",
+    "password": "rQoPNUVKL6d5b1Dg"
+  },
+  "host10": {
+    "hostname": "dash.bobbitt.dev",
+    "username": "sNSNoMVS2liOJWhq",
+    "password": "dP4PhAKVnRtSh8OA"
+  },
+  "host11": {
+  	"hostname": "torrent.bobbitt.dev",
+  	"username": "zLPYYajy6M2OsHqE",
+  	"password": "PBAt9eEm3Scmmv8w"
+  }
+}
