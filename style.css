@@ -1,0 +1,37 @@
+html {
+    font-family: "Hack Nerd Font", "Courier New", monospace;
+    background-color: #282a36;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    color: #f8f8f2;
+}
+
+a {
+    color: #6272a4;
+    text-decoration: none;
+}
+
+a:link a:visited {
+    color: #6272a4;
+}
+
+a:hover {
+    color: #ff79c6;
+}
+
+a:active {
+    color: #50fa7b;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
