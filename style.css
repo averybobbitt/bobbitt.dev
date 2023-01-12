@@ -1,6 +1,7 @@
 html {
     font-family: "Hack Nerd Font", "Courier New", monospace;
     background-color: #282a36;
+    color: white;
     text-align: center;
     margin: 0;
     position: absolute;
@@ -9,29 +10,57 @@ html {
     transform: translate(-50%, -50%);
 }
 
-body {
-    color: #f8f8f2;
+/* dropdown button */
+.dropbtn {
+    font-family: "Hack Nerd Font", "Courier New", monospace;
+    background-color: #282a36;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding-bottom: 4px;
 }
 
-a {
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.droplinks {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.droplinks a {
+    background-color: #282a36;
     color: #6272a4;
+    padding: 12px 16px;
     text-decoration: none;
+    display: block;
 }
 
-a:link a:visited {
-    color: #6272a4;
-}
-
-a:hover {
+/* Change color of dropdown links on hover */
+.droplinks a:hover {
     color: #ff79c6;
+    background-color: #282a36;
 }
 
-a:active {
+.droplinks a:active {
     color: #50fa7b;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+/* Show the dropdown menu on hover */
+.dropdown:hover .droplinks {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #282a36;
 }
